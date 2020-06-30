@@ -13,7 +13,7 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "start": "nodemon --exec babel-node index.js"
+    "start": "--exec babel-node index.js"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
